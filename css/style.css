@@ -1,0 +1,27 @@
+body {
+  padding-top: 60px;
+}
+
+.bottom{
+  margin-bottom: 25px;
+}
+
+.des{
+  color: white;
+  font-weight: 900;
+  padding: 2px 2px;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.uno{
+  background-color: orange;
+}
+
+.dos{
+    background-color: grey;
+}
+
+.coment{
+  padding: 20px;
+}
